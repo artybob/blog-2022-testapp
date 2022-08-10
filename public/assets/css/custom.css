@@ -1,0 +1,17 @@
+.custom-pagination a {
+    color: black;
+    background: #f2f2f2;
+}
+
+.custom-pagination a:hover {
+    color: white;
+}
+
+.custom-pagination .active-page{
+    color: white;
+    background: #214252;
+}
+
+a {
+    text-decoration: none!important;
+}
